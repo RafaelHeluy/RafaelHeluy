@@ -1,5 +1,5 @@
--<h1 align="center">Bom dia, Eu sou Rafael Heluy</h1>
-<h3 align="center"> Estudante.Gosto de ciência da computação, computadores e matemática. </h3>
+-<h1 align="center">Bom dia, Eu sou Rafael Heluy. </h1>
+<h3 align="center"> .Gosto de ciência da computação, computadores e matemática.Busco aprofundar nestas áreas e ser um desenvolvedor no futuro! </h3>
 
 - 🌱 Atualmente, estou aprendendo **a programar em Python**
 
